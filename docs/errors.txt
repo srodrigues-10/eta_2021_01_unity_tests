@@ -1,0 +1,30 @@
+Bug Report
+==========
+
+For each bug, please provide the following information:
+  - Class name
+  - Method name
+  - Test method name
+  - Message produced by the test method
+
+Example:
+Error 0:
+  Class: Link
+  Method: toString()
+  Test Method: testToString_sorted()
+  Message: toString with sorted city names returned wrong string
+
+Error 1:
+  Class: Link
+  Method: toString()
+  Test Method: testToString_unsorted()
+  Message: toString with unsorted city names returned wrong string
+
+Error 2:
+  Class: 
+  Method:
+  Test Method:
+  Message:
+
+
+*********** ADD AS MANY MORE AS NEEDED *******************
